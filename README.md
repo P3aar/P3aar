@@ -19,4 +19,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=p3aar&show_icons=true&title_color=000000&bg_color=000000&locale=en&layout=compact" alt="p3aar" /></p>
 
 
-
+## Other Stuff
+  - :octocat: [My Resume](https://drive.google.com/file/d/101CvToF7Ps5MUdR_Q2-fu99wQSDTDfgI/view?usp=sharing)
