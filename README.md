@@ -1,23 +1,44 @@
+<br clear="both">
+
 <h1 align="center">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">  , Eu sou Yuri Borges</h1>
-<h3 align="center">Apaixonado por Tecnologia Análise De Dados  </h3>
 
-- 🍀 Atualmente estou aprendendo **MySQL e EXCEL**
+###
 
-- 💬 Me pergunte sobre **SQL, EXCEL, Python e PowerBI**
+<h4 align="left">🍀 Atualmente estou aprimorando minhas habilidades no MySQL e EXCEL<br><br>💬 Me pergunte sobre: SQL, EXCEL, Python e PowerBI<br><br>📫 Você pode me achar através do e-mail: Yuriborgesybs1@gmail.com<br><br>📄 Minhas experiências:<br>https://github.com/P3aar</h4>
 
-- 📫 Você pode me achar através do e-mail **Yuriborgesybs1@gmail.com**
+###
 
-- 📄 Minhas experiências [https://github.com/P3aar](https://github.com/P3aar)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<a href="https://linkedin.com/in/www.linkedin.com/in/yuri-borges-dados" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yuri-borges-dados" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </p>
+<br clear="both">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=p3aar&show_icons=true&title_color=000000&bg_color=000000&locale=en&layout=compact" alt="p3aar" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P3aar/P3aar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P3aar/P3aar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/P3aar/P3aar/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P3aar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=P3aar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/101CvToF7Ps5MUdR_Q2-fu99wQSDTDfgI/view?usp=sharing)
