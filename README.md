@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-<h3 align="left">🍀 Atualmente estou aprimorando minhas habilidades no MySQL e EXCEL<br><br>💬 Me pergunte sobre: SQL, EXCEL, Python, PowerBI e Looker Studio<br><br>📫 Você pode me achar através do e-mail: Yuriborgesybs1@gmail.com<br><br>📄 Minhas experiências:<br>www.linkedin.com/in/yuri-borges-dados</h3>
+<h3 align="left">🍀 Atualmente estou aprimorando minhas habilidades no MySQL e EXCEL<br><br>💬 Me pergunte sobre: SQL, EXCEL, Python, PowerBI e Looker Studio<br><br>📫 Você pode me achar através do e-mail: Yuriborgesybs1@gmail.com<br><br>📄 Minhas experiências: [LinkedIn](https://www.linkedin.com/in/yuri-borges-dados/)
 
 ###
 
