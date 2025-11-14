@@ -6,13 +6,11 @@
 ###
 
 <br clear="both">
-
 <h3 align="left">🍀 Atualmente estou aprimorando minhas habilidades no MySQL e EXCEL<br><br>💬 Me pergunte sobre: SQL, EXCEL, Python, PowerBI e Looker Studio<br><br>📫 Você pode me achar através do e-mail: Yuriborgesybs1@gmail.com<br><br>📄 Minhas experiências: [LinkedIn](https://www.linkedin.com/in/yuri-borges-dados/)
 
 ###
 
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
